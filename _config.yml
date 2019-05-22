@@ -1,5 +1,8 @@
-theme: jekyll-theme-minimum
-title: [LuHa Group\: Coperation, Evolution, and Natural Resources]
-description: [Our group is interested in natural resource management, and the drivers of the sustainable and unsustainable use.
+title: LuHa Group: Coperation, Evolution, and Natural Resources
+logo: /assets/img/logo.png
+description: Our group is interested in natural resource management, and the drivers of the sustainable and unsustainable use.
 Central to this, we are studying which social and evolutinary factors lead to cooperation of different actors or groups to work
-together to only extract what is sustainable for long term use and the benfit of ecosystem services]
+together to only extract what is sustainable for long term use and the benfit of ecosystem services.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
